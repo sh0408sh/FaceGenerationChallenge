@@ -1,2 +1,5 @@
 dev/
 .DS_Store
+downloaded_celebvhq/
+stylegan3/
+*.log
