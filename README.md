@@ -155,3 +155,4 @@ If you find this work useful for your research, please consider citing our paper
 We sincerely thank Zongcai Sun for his help with source data preparation and the download tool development. This work is partly supported by Shanghai AI Laboratory and SenseTime Research. It is also supported by NTU NAP, MOE AcRF Tier 1 (2021-T1-001-088), and under the RIE2020 Industry Alignment Fund – Industry Collaboration Projects (IAF-ICP) Funding Initiative, as well as cash and in-kind contribution from the industry partner(s).
 
 
+# FaceGenerationChalleng-celebV-HQ
