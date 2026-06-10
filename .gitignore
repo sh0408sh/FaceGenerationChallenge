@@ -1,5 +1,7 @@
 dev/
 .DS_Store
 downloaded_celebvhq/
-stylegan3/
 *.log
+__pycache__/
+*.py[cod]
+.stylegan3-git-backup/
